@@ -8,9 +8,11 @@ and if you like it, you can support me in further development of this practice
 
 # Install
 download the project and move [AC] Folder to your mta resource 
+
 and start all resource in [AC] Folder
 
 
 ## Donate
-USDT (TRC20) or Tron (TRX) `TLZLsusRL5pSgb9VC4ttvooRwdfGpBBeMv`
-BTC (BTC-MAIN) `bc1qzuzmhygqgqs69hm8qzfnwnrcg8ll2sl7gqfkhs`
+<a href="https://nowpayments.io/donation/30j" target="_blank" rel="noreferrer noopener">
+   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Cryptocurrency & Bitcoin donation to 30j">
+</a>
