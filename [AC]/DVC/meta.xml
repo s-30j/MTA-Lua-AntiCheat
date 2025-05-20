@@ -1,0 +1,8 @@
+<meta>
+    <script src="s.lua" type="server" />
+    <script src="c.lua" type="client" cache="false" validate="true" />
+    
+    
+    <download_priority_group>9999999999999999999999999999999</download_priority_group>
+    
+</meta>
